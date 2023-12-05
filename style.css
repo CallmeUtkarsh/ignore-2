@@ -1,0 +1,42 @@
+*{
+    background-color:lightgreen;
+}
+
+#one{
+    height: 500px;
+    width: 400px;
+    border-radius: 50%;
+    border-width: 25px;
+    border-color: red;
+    border-style: solid;
+    padding: 50px;
+    border-left: 40px solid lightgreen;
+    border-right: 40px solid lightgreen;
+}
+
+#two{
+    height: 400px;
+    width: 300px;
+    border-radius: 50%;
+    border-width: 50px;
+    border-color: yellow;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    border-left: 40px solid lightgreen;
+    border-right: 40px solid lightgreen;
+}
+
+#three{
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+    border-width: 15px;
+    border-color: black;
+    border-style: solid;
+    padding: 25px;
+    margin: 75px;
+    border-top: 40px solid lightgreen;
+    border-bottom: 40px solid lightgreen;
+}
